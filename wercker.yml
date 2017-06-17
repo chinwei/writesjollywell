@@ -10,6 +10,5 @@ deploy:
     - install-packages:
         packages: git ssh-client
     - lukevivier/gh-pages@0.2.1:
-        token: b2f9b908c559de21a97fd01ad1bb2428dca8b8cd
-        domain: hugo-wercker.ig.nore.me
+        token: GIT_TOKEN
         basedir: public
