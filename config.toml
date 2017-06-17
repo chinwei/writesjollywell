@@ -1,4 +1,4 @@
 languageCode = "en-us"
 title = "Writes Jolly Well"
 baseURL = "http://example.org/"
-theme = "default"
+theme = "hugo-theme-bleak"
