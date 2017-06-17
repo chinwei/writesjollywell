@@ -1,0 +1,13 @@
+box: debian
+build:
+  steps:
+    - install-packages:
+        packages: git
+    - script:
+        name: download theme
+        code: |
+            $(git clone https://github.com/MunifTanjim/minimo ./themes/minimo)
+    - arjen/hugo-build:
+        version: "0.14"
+        theme: minimo
+        flags: --buildDrafts=true
