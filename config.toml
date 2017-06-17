@@ -1,3 +1,4 @@
 languageCode = "en-us"
 title = "Writes Jolly Well"
 baseURL = "/"
+theme = "minimo"
