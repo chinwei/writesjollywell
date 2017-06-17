@@ -2,12 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Writes Jolly Well</title>
-    <link>http://example.org/post/index.xml</link>
+    <link>http://example.org/post/</link>
     <description>Recent content in Posts on Writes Jolly Well</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jun 2017 14:09:02 +0800</lastBuildDate>
-    <atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jun 2017 14:33:20 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>From Forestry io</title>
+      <link>http://example.org/post/from-forestry-io/</link>
+      <pubDate>Sat, 17 Jun 2017 14:33:20 +0000</pubDate>
+      
+      <guid>http://example.org/post/from-forestry-io/</guid>
+      <description>lalalala
+sdfds
+d</description>
+    </item>
     
     <item>
       <title>good to great</title>
@@ -24,8 +37,7 @@
       <pubDate>Sat, 17 Jun 2017 14:01:57 +0800</pubDate>
       
       <guid>http://example.org/post/welcome/</guid>
-      <description>&lt;p&gt;lalala this is a new post!!!&lt;/p&gt;
-</description>
+      <description>lalala this is a new post!!!</description>
     </item>
     
   </channel>

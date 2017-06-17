@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.org/post/from-forestry-io/</loc>
+    <lastmod>2017-06-17T14:33:20+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/post/good-to-great/</loc>
     <lastmod>2017-06-17T14:09:02+08:00</lastmod>
   </url>
@@ -12,14 +17,24 @@
   </url>
   
   <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://example.org/post/</loc>
-    <lastmod>2017-06-17T14:09:02+08:00</lastmod>
+    <lastmod>2017-06-17T14:33:20+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://example.org/</loc>
-    <lastmod>2017-06-17T14:09:02+08:00</lastmod>
+    <lastmod>2017-06-17T14:33:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
