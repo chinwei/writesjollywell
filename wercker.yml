@@ -4,6 +4,6 @@ build:
     - install-packages:
         packages: git
     - arjen/hugo-build:
-        version: "0.14"
+        version: "HEAD"
         theme: minimo
         flags: --buildDrafts=true
