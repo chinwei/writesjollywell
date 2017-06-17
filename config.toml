@@ -1,4 +1,4 @@
-languageCode = "en-us"
-title = "Writes Jolly Well"
 baseURL = "/"
+languageCode = "en-us"
 theme = "minimo"
+title = "Writes Jolly Well"
