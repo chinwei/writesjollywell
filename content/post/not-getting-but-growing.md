@@ -5,3 +5,6 @@ draft = true
 title = "Not getting but growing"
 
 +++
+
+
+Sometimes it's not about getting. It's about growing.
