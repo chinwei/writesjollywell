@@ -1,6 +1,6 @@
 +++
 categories = ["Others"]
-date = "2017-06-18T09:32:40+00:00"
+date = "2017-06-18T09:32:40Z"
 title = "Someone"
 
 +++
