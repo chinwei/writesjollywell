@@ -4,9 +4,9 @@ date = "2017-06-18T08:50:49+00:00"
 title = "The Tissue Seller who refused my money"
 
 +++
-# Lessons from a Tissue Pack
+#### Lessons from a Tissue Pack
 
-### /Greatness is not measured by how much you can gain but how much you can give. Even if it is just tissue paper./
+> Greatness is not measured by how much you can gain but how much you can give. Even if it is just tissue paper.
 
 While on my way to the train station from work, I often meet an affable tissue paper seller who sat along the pavement with her merchandise laid on the ground. Each time I approached, she would flash a toothy smile and gently urged me to get a wheelchair for ease and comfort.
 
