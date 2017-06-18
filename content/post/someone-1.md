@@ -1,12 +1,10 @@
 +++
 categories = ["Others"]
-date = "2017-06-18T09:33:23+00:00"
+date = "2017-06-18T09:33:23Z"
 draft = true
 title = "Someone"
 
 +++
-
-
 Seek what you see, there's more than meets the eye.
 
 Believe in what you hear, sounds can make sense.
