@@ -2,8 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "minimo"
 title = "Writes Jolly Well"
-
 [[menu.main]]
-    name = "Home"
-    identifier = "Home"
-    url = "/"
+identifier = "Home"
+name = "Home"
+url = "/"
