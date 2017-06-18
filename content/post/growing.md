@@ -5,3 +5,6 @@ draft = true
 title = "Growing"
 
 +++
+
+
+The growing pains of growing old, growing into, growing apart and growing away.
