@@ -1,7 +1,6 @@
 +++
 categories = ["Others"]
-date = "2017-06-18T09:32:40Z"
-draft = true
+date = "2017-06-18T09:32:40+00:00"
 title = "Someone"
 
 +++
