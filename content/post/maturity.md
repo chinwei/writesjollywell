@@ -5,3 +5,6 @@ draft = true
 title = "Maturity"
 
 +++
+
+
+Maturity is doing what needs to be done or should be done, not what likes to be done or wants to be done.
