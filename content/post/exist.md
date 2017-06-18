@@ -5,3 +5,6 @@ draft = true
 title = "Exist"
 
 +++
+
+
+Don't just exist. Exist meaningfully. Otherwise, it's as good as you didn't.
