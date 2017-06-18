@@ -29,3 +29,9 @@ h1 {
 h4 {
 	font-weight: 400;
 }
+
+.main-menu li a {
+	font-size: 0.8em;
+	font-weight: 600;
+	color: #999;
+}
