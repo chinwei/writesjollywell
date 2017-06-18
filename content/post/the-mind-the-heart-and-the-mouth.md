@@ -5,3 +5,6 @@ draft = true
 title = "The mind, the heart and the mouth"
 
 +++
+
+
+The mind deafens; the heart whispers; the mouth muted.
