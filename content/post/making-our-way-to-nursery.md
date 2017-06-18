@@ -1,11 +1,9 @@
 +++
 categories = ["Others"]
-date = "2017-06-18T10:36:57+00:00"
+date = "2017-06-18T10:36:57Z"
 title = "Making our way to nursery"
 
 +++
-
-
 A Monday morning devoid of the morning rush and madness that I have not known for a long time.
 
 I awake as my dog talked in his sleep and my niece making her Monday blues known and heard.

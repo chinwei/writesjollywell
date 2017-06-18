@@ -1,11 +1,9 @@
 +++
 categories = ["Others"]
-date = "2017-06-18T10:48:44+00:00"
+date = "2017-06-18T10:48:44Z"
 title = "Too much Con"
 
 +++
-
-
 Do not confute because you are not convinced.
 
 Do not condemn because you do not concur.
