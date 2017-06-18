@@ -5,3 +5,6 @@ draft = true
 title = "Sometimes"
 
 +++
+
+
+Sometimes I wished I could _______, then maybe I would _______.
