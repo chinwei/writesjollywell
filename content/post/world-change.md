@@ -1,7 +1,6 @@
 +++
 categories = ["Others"]
 date = "2017-06-18T10:20:50Z"
-draft = true
 title = "World Change"
 
 +++
