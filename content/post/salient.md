@@ -5,3 +5,6 @@ draft = true
 title = "Salient"
 
 +++
+
+
+I become salient when my mind is silent and my heart is resilient.
