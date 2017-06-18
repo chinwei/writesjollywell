@@ -5,3 +5,12 @@ draft = true
 title = "Kindness and Suffering"
 
 +++
+
+
+Kindness begets more kindness.
+
+Suffering breeds deeper suffering.
+
+Suffering dismisses kindness.
+
+Kindness ruins suffering.
