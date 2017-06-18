@@ -1,11 +1,9 @@
 +++
 categories = ["Others"]
-date = "2017-06-18T11:00:43+00:00"
+date = "2017-06-18T11:00:43Z"
 title = "I wonder"
 
 +++
-
-
 I wonder _______.
 
 I wonder if _______.

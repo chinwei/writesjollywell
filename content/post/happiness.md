@@ -1,7 +1,6 @@
 +++
 comments = false
 date = "2017-06-18T10:04:18Z"
-
 title = "Happiness"
 
 +++

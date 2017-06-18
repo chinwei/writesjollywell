@@ -1,11 +1,9 @@
 +++
 categories = ["Others"]
-date = "2017-06-18T11:06:30+00:00"
+date = "2017-06-18T11:06:30Z"
 title = "Your"
 
 +++
-
-
 Thoughts form your beliefs.
 
 Beliefs form your choices.

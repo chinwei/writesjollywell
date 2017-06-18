@@ -1,11 +1,9 @@
 +++
 categories = ["Others"]
-date = "2017-06-18T10:49:58+00:00"
+date = "2017-06-18T10:49:58Z"
 title = "We lose"
 
 +++
-
-
 When there's too much clutter, we lose sight.
 
 When there's too much calamity, we lose faith.
