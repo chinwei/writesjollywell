@@ -5,3 +5,16 @@ draft = true
 title = "今天"
 
 +++
+
+
+Think; not of self-interest.
+
+Give; not for self-gain.
+
+Love; not for self-love.
+
+Serve; not for self-service.
+
+Fight; not for self-worth.
+
+Be selfless; so that the less of you becomes the more of you.
