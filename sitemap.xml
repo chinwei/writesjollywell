@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/post/the-tissue-seller-who-refused-my-money/</loc>
+    <lastmod>2017-06-18T08:50:49+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/morning-from-loopy/</loc>
     <lastmod>2017-06-18T08:29:35+00:00</lastmod>
   </url>
@@ -28,13 +33,13 @@
   
   <url>
     <loc>/categories/others/</loc>
-    <lastmod>2017-06-18T08:29:35+00:00</lastmod>
+    <lastmod>2017-06-18T08:50:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-06-18T08:29:35+00:00</lastmod>
+    <lastmod>2017-06-18T08:50:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -45,7 +50,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-06-18T08:29:35+00:00</lastmod>
+    <lastmod>2017-06-18T08:50:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   
