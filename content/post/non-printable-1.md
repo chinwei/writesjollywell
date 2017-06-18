@@ -1,7 +1,6 @@
 +++
 categories = ["Others"]
 date = "2017-06-18T09:30:56Z"
-draft = true
 title = "睡觉"
 
 +++
