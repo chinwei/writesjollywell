@@ -1,12 +1,10 @@
 +++
 categories = ["Others"]
-date = "2017-06-18T10:20:50+00:00"
+date = "2017-06-18T10:20:50Z"
 draft = true
 title = "World Change"
 
 +++
-
-
 The world isn't what I knew it to be, so I changed along with it.
 
 I thought the world could be what I wanted, so I thought I could change it.

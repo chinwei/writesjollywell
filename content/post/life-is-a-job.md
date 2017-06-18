@@ -1,12 +1,10 @@
 +++
 categories = ["Others"]
-date = "2017-06-18T10:29:52+00:00"
+date = "2017-06-18T10:29:52Z"
 draft = true
 title = "Life is a job!"
 
 +++
-
-
 Life is a job!
 
 Our titles are our roles

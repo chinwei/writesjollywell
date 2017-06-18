@@ -1,12 +1,10 @@
 +++
 categories = ["Others"]
-date = "2017-06-18T10:21:26+00:00"
+date = "2017-06-18T10:21:26Z"
 draft = true
 title = "We are, We choose"
 
 +++
-
-
 We are not blind, but we choose to be blinded.
 
 We are not deaf, but we choose not to listen.

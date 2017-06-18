@@ -1,14 +1,13 @@
 +++
 comments = false
-date = "2017-06-18T10:04:18+00:00"
+date = "2017-06-18T10:04:18Z"
 draft = true
 title = "Happiness"
+type = "page"
 [menu.main]
 weight = 1
 
 +++
-
-
 Happiness is never lasting; it has to be renewed.
 
 It begins in you and ends with you; at the moment you cease to feel.
