@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others on Writes Jolly Well</title>
+    <link>/categories/others/</link>
+    <description>Recent content in Others on Writes Jolly Well</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Jun 2017 08:29:35 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/others/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Morning!! From loopy</title>
+      <link>/post/morning-from-loopy/</link>
+      <pubDate>Sun, 18 Jun 2017 08:29:35 +0000</pubDate>
+      
+      <guid>/post/morning-from-loopy/</guid>
+      <description>Yawn&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
