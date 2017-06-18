@@ -5,3 +5,12 @@ draft = true
 title = "We lose"
 
 +++
+
+
+When there's too much clutter, we lose sight.
+
+When there's too much calamity, we lose faith.
+
+When there's too much contortion, we lose touch.
+
+When there's too much compulsion, we lose ourselves.
