@@ -5,3 +5,6 @@ draft = true
 title = "Care "
 
 +++
+
+
+Most people are careless about who you really are, because they care so much about who you are to them or because they care too much about what they conceive you to be.
