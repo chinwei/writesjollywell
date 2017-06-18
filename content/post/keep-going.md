@@ -5,3 +5,6 @@ draft = true
 title = "Keep going"
 
 +++
+
+
+Get going from where you are. You might not always end up where you want to be, but you will always end up where you are you are supposed to be. Keep going wherever you are.
