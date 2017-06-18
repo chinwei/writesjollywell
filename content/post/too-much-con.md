@@ -5,3 +5,10 @@ draft = true
 title = "Too much Con"
 
 +++
+
+
+Do not confute because you are not convinced.
+
+Do not condemn because you do not concur.
+
+Do not confound because you will not concede.
